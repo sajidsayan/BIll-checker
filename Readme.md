@@ -1,0 +1,1 @@
+This a code for your hotel restuarent you just need to say how many is your customer bill than put it on screen of restuarent they if i pay lower than say give more u dont given and if u give higher so say take your "{How many dollar you will payed}"
